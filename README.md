@@ -139,4 +139,5 @@ The smart vacuum cleaner integrates multiple components with the Mega Arduino to
 
 ## Sample data - for login
 `Username`: `leonal`
+
 `password`: `123456`
