@@ -137,3 +137,6 @@ Additionally, we have added a prediction page to forecast future climate tempera
 ## Summary
 The smart vacuum cleaner integrates multiple components with the Mega Arduino to achieve autonomous cleaning, obstacle avoidance, environmental monitoring, and security features. This comprehensive setup demonstrates the power of robotics and automation in everyday applications, providing both efficiency and convenience.
 
+## Sample data - for login
+`Username`: `leonal`
+`password`: `123456`
