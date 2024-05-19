@@ -101,32 +101,33 @@ Real-time environmental data enables users to monitor indoor conditions remotely
 ### Components and Connections
 
 #### 2 DC Motors with Mega Arduino
-![2 DC Motors](https://github.com/Leonallr10/iot_obstacle_avoidance/assets/118210551/42a35a12-7cb5-48b1-851d-2d9188ca6bd3)
+![2 DC Motors](![t725](https://github.com/Leonallr10/IOT_obstacles-avoidance-/assets/118210551/d87b274b-c8ed-4152-9010-882ba625b36f))
 - **Description:** This setup involves connecting two DC motors to the Mega Arduino for the propulsion and movement of the robotic vacuum cleaner.
 - **Usage:** Enables the vacuum cleaner to navigate and move around the cleaning area.
 
 #### Mega Arduino with Ultrasonic Sensor
-![Ultrasonic Sensor](https://github.com/Leonallr10/iot_obstacle_avoidance/assets/118210551/b8299bfa-1e75-4b50-8fce-f8d78b0b0902)
+![Ultrasonic Sensor](![Picture1](https://github.com/Leonallr10/IOT_obstacles-avoidance-/assets/118210551/6530ab50-92c0-4264-9db6-cc679fa31202))
 - **Description:** The ultrasonic sensor is connected to the Mega Arduino to detect obstacles in the vacuum cleaner’s path.
 - **Usage:** Facilitates obstacle avoidance by measuring distance and preventing collisions.
 
 #### Mega Arduino with Servo Motor
-![Servo Motor](https://github.com/Leonallr10/iot_obstacle_avoidance/assets/118210551/3fe72689-7d65-4512-98f7-3f40fdf2f835)
+![Servo Motor](![Picture2](https://github.com/Leonallr10/IOT_obstacles-avoidance-/assets/118210551/f4a5417a-4b19-407a-a6b4-e62f1f2509b3)
+)
 - **Description:** This setup includes a servo motor connected to the Mega Arduino for precise control of components, such as adjusting the angle of the vacuum cleaner’s nozzle.
 - **Usage:** Enhances cleaning efficiency by allowing precise adjustments.
 
 #### Mega Arduino with L298N
-![L298N Motor Driver](https://github.com/Leonallr10/iot_obstacle_avoidance/assets/118210551/e378796e-b703-4d5a-ae94-fc5ab98ed371)
+![L298N Motor Driver](![Picture3](https://github.com/Leonallr10/IOT_obstacles-avoidance-/assets/118210551/8bbb1228-d3a7-4335-979c-0734c6b9ab78))
 - **Description:** The L298N motor driver is used to control the DC motors. It interfaces with the Mega Arduino to manage motor speed and direction.
 - **Usage:** Ensures efficient motor control and provides the necessary power for movement.
 
 #### Mega Arduino with Humidity Sensor
-![Humidity Sensor](https://github.com/Leonallr10/iot_obstacle_avoidance/assets/118210551/b17ec8b9-4929-41b4-b185-2d3443d9a311)
+![Humidity Sensor](![Picture4](https://github.com/Leonallr10/IOT_obstacles-avoidance-/assets/118210551/b80d1936-c451-4043-8f0a-e365ecbaf27a))
 - **Description:** The humidity sensor is connected to the Mega Arduino to measure the humidity levels in the environment.
 - **Usage:** Monitors environmental conditions to maintain optimal cleaning performance and comfort.
 
 #### Mega Arduino with Motion Sensor
-![Motion Sensor](https://github.com/Leonallr10/iot_obstacle_avoidance/assets/118210551/2506e8cd-c58b-41ab-979a-ca168dd1bd4c)
+![Motion Sensor](![Picture5](https://github.com/Leonallr10/IOT_obstacles-avoidance-/assets/118210551/2ff5d36a-0ef7-4883-87da-7a69654ccce7))
 - **Description:** This setup includes a motion sensor connected to the Mega Arduino to detect movement in the area.
 - **Usage:** Enhances security by detecting intruders and can adjust cleaning schedules based on room occupancy.
 
