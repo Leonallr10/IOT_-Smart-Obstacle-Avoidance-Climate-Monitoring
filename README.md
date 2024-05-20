@@ -1,5 +1,17 @@
-# Obstacle Avoidance
+# EnviroBot: Smart Obstacle Avoidance and Climate Monitoring
+## Code Files
 
+### Obstacle Avoidance - `obs_avoid.ino`
+- **Description:** This Arduino code file manages the obstacle avoidance functionality of the smart vacuum cleaner.
+- **Functionality:** Uses the ultrasonic sensor to detect obstacles and controls the DC motors to navigate around them.
+
+### Temperature, Humidity, Heat Index, and Motion Detection - `main.py`
+- **Description:** This Python script runs on a Raspberry Pi Pico to measure environmental conditions and detect motion.
+- **Functionality:** Utilizes sensors to collect data on temperature, humidity, and motion, then processes and stores this data in Firebase.
+
+### Temperature Prediction - `app.py`
+- **Description:** This Python application predicts future temperature trends based on historical data.
+- **Functionality:** By running `python app.py`, users can access a web interface that provides temperature predictions and insights.
 ## Table of Contents
 - [Motivation](#motivation)
   - [Efficiency Boost](#efficiency-boost)
